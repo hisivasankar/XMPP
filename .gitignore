@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/XMPPDemo/local.properties
+/XMPPDemo/.idea/
+.DS_Store
+/XMPPDemo/build
+/XMPPDemo/captures
+*.classpath
+*.project
+/xmppdemo-java/.settings/
+/xmppdemo-java/target/
+*.class
